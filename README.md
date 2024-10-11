@@ -36,9 +36,9 @@ In summary, Bayes' theorem estimates the probability of a specific event (e.g., 
 ### 6. Model Evaluation
 - Evaluated the model using various metrics:
   - **Accuracy:** 0.98
-  - **Precision:** 0.95
-  - **Recall:** 0.90
-  - **F1 Score:** 0.92
+  - **Precision:** 0.97
+  - **Recall:** 0.94
+  - **F1 Score:** 0.96
 
 These metrics indicate that the model performs exceptionally well, especially in terms of precision and recall, which are critical for effective spam detection.
 
