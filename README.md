@@ -1,6 +1,6 @@
 # SMS Spam Detection System Using Naive Bayes
 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKu2gKpAnqt0M5GVnE8g34SDfbh8wXnxQIQ&s" alt="My Image">
+![My Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKu2gKpAnqt0M5GVnE8g34SDfbh8wXnxQIQ&s)
 
 
 ## Project Overview
